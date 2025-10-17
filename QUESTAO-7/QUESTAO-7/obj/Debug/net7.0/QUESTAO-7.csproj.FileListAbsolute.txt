@@ -1,0 +1,15 @@
+C:\Users\Senai.CEPEAS21103946\Desktop\QUESTAO-7\QUESTAO-7\bin\Debug\net7.0\QUESTAO-7.exe
+C:\Users\Senai.CEPEAS21103946\Desktop\QUESTAO-7\QUESTAO-7\bin\Debug\net7.0\QUESTAO-7.deps.json
+C:\Users\Senai.CEPEAS21103946\Desktop\QUESTAO-7\QUESTAO-7\bin\Debug\net7.0\QUESTAO-7.runtimeconfig.json
+C:\Users\Senai.CEPEAS21103946\Desktop\QUESTAO-7\QUESTAO-7\bin\Debug\net7.0\QUESTAO-7.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\QUESTAO-7\QUESTAO-7\bin\Debug\net7.0\QUESTAO-7.pdb
+C:\Users\Senai.CEPEAS21103946\Desktop\QUESTAO-7\QUESTAO-7\obj\Debug\net7.0\QUESTAO-7.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\QUESTAO-7\QUESTAO-7\obj\Debug\net7.0\QUESTAO-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21103946\Desktop\QUESTAO-7\QUESTAO-7\obj\Debug\net7.0\QUESTAO-7.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\QUESTAO-7\QUESTAO-7\obj\Debug\net7.0\QUESTAO-7.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21103946\Desktop\QUESTAO-7\QUESTAO-7\obj\Debug\net7.0\QUESTAO-7.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\QUESTAO-7\QUESTAO-7\obj\Debug\net7.0\QUESTAO-7.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\QUESTAO-7\QUESTAO-7\obj\Debug\net7.0\refint\QUESTAO-7.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\QUESTAO-7\QUESTAO-7\obj\Debug\net7.0\QUESTAO-7.pdb
+C:\Users\Senai.CEPEAS21103946\Desktop\QUESTAO-7\QUESTAO-7\obj\Debug\net7.0\QUESTAO-7.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\QUESTAO-7\QUESTAO-7\obj\Debug\net7.0\ref\QUESTAO-7.dll
